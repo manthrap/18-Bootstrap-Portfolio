@@ -1,0 +1,98 @@
+
+
+
+p{
+    font-family: 'Work Sans', sans-serif;
+}
+.jumbotron h1{
+
+    font-family: 'Calistoga', cursive;
+    margin: auto 40px;
+    text-align: center;
+    
+}
+
+
+
+.navbar-nav{
+    margin-left: auto;
+    margin-right:0 !important;
+}
+
+.card-title{
+    font-family: 'Calistoga', cursive;
+}
+
+.jumbotron p{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1.5em;
+   margin: 20px 40px;
+       text-align: center; 
+
+}
+
+.jumbotron .btn{
+        border: none;
+    margin: 20px 40px;
+    width: 250px;
+
+  }
+
+  .jumbotron{
+      background-color: white;
+      width: 100vw;
+      height: 80vh;
+      padding: 10% 15%;
+      text-align: center;
+ }
+
+  .sectionHeading{
+    text-align: center;
+    margin-bottom: 40px;
+    font-family: 'Calistoga', cursive;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    width: 100vw;
+  }
+
+  .card{
+      border: none;
+      margin: 70px 0;
+
+  }
+
+  .card-img-top{
+    width: 100%;
+    height: 45vh;
+    object-fit: cover;
+  }
+  
+  .btn{
+background-color:#3626A7; 
+border: none; 
+
+}
+.btn:hover{
+    background-color: indigo;
+    transform: scaleX(1.1);
+    transition: ease-in-out;
+    transition-duration: 0.4s;
+
+}
+
+
+.card a{
+    color: #3626A7;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+.footerContainer{
+    color: black;
+    margin: 80px 0 ;
+    padding: 40px;
+    height: 80px;
+    border-top: black;
+    border-top-style: solid;
+}
