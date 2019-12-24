@@ -6,7 +6,7 @@ p{
 }
 .jumbotron h1{
 
-    font-family: 'Calistoga', cursive;
+    font-family: 'calistoga', cursive;
     margin: auto 40px;
     text-align: center;
     
@@ -95,4 +95,25 @@ border: none;
     height: 80px;
     border-top: black;
     border-top-style: solid;
+}
+
+.form-group{
+    justify-content: center;
+    margin: 40px 40px;
+    width: 400px;
+}
+
+.table{
+    margin: 40px;
+}
+
+#contactme{
+    padding: 40px 0;
+    background-color: gainsboro;
+
+}
+
+#contactme h2{
+    font-family: 'Calistoga', cursive;
+    margin: auto 40px;
 }
